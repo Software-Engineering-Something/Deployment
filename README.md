@@ -1,10 +1,10 @@
 Stock market data is extracted from file for each industry. The stock movement of companies would be compared based on these 6 parameters :- ‘High’, ‘Low’, ‘Open’, ‘Close’, ‘Volume’, ‘Adj Close’.
-‘High’ :- Highest price during the day.
-‘Low’ :- Lowest price during the day.
-‘Open’ :- Opening price of the day.
-‘Close’ :- Closing price of the day.
-‘Volume’ :- Total number of shares of stock traded during the day.
-‘Adj Close’ :- The closing price is amended to account for any corporate actions to give the ‘Adjusted closing’ price.
+- ‘High’ :- Highest price during the day.
+- ‘Low’ :- Lowest price during the day.
+- ‘Open’ :- Opening price of the day.
+- ‘Close’ :- Closing price of the day.
+- ‘Volume’ :- Total number of shares of stock traded during the day.
+- ‘Adj Close’ :- The closing price is amended to account for any corporate actions to give the ‘Adjusted closing’ price.
 
 The step to deploy the project
 - Imports & Data through CSV file
